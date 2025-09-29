@@ -17,15 +17,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/Vrengwisdom/Qr-code
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: qr-code-bhhf.vercel.app
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
-
+- Mobile-first
 ### What I learned
 
 ```css
